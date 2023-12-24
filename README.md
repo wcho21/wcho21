@@ -2,6 +2,9 @@
 
 Interests: computer science things, mathematics, competitive programming.
 
-Recent works: [KAL (Korean programming language)][kal]
+#### Recent works
+
+- [__KAL__][kal]: A Korean programming language. (Try at [Playground][kal-playground])
 
 [kal]: https://github.com/wcho21/kal
+[kal-playground]: https://kal-playground.rooi.dev/
