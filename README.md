@@ -20,6 +20,8 @@ Let's go try out some problem-solving challenges together.
 Here are my review & upsolving repos.
 Any comments (issues) on those repos will be appreciated.
 
+- 🎄 [__Advent of Code (2023)__][aoc-2023]
 - ☁️ [__구름 알고리즘 먼데이__][gam]
 
+[aoc-2023]: https://github.com/wcho21/advent-of-code-2023
 [gam]: https://github.com/wcho21/goorm-monday
