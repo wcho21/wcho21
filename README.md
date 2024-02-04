@@ -4,7 +4,7 @@ A programmer, mathematically-minded.
 
 
 
-#### 🗃️ Recent works
+### 🗃️ Recent works
 
 - 🗡️ [__KAL__][kal]: A Korean programming language. (Try at [Playground][kal-playground])
 
@@ -13,15 +13,22 @@ A programmer, mathematically-minded.
 
 
 
-#### ⛺ Challenges
+### 📄 Writings
 
-Let's go try out some problem-solving challenges together.
+- 🔗 [__Drop__][drop]: Articles I wrote.
 
+[drop]: https://drop.rooi.dev/
+
+
+
+### ⛺ Challenges
+
+Problem-solving challenges.
 Here are my review & upsolving repos.
 Any comments (issues) on those repos will be appreciated.
 
 - 🎄 [__Advent of Code (2023)__][aoc-2023]
-- ☁️ [__구름 알고리즘 먼데이__][gam]
+- ☁️ [__구름 알고리즘 먼데이__][goorm-alg]
 
-[aoc-2023]: https://github.com/wcho21/advent-of-code-2023
-[gam]: https://github.com/wcho21/goorm-monday
+[aoc-2023]: https://github.com/wcho21/advent-of-code-2023/
+[goorm-alg]: https://github.com/wcho21/goorm-monday/
