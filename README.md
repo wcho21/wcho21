@@ -6,9 +6,9 @@ A programmer, mathematically-minded.
 
 ### 🗃️ Recent works
 
-- 🗡️ [__KAL__][kal]: A Korean programming language. (Try at [Playground][kal-playground])
+- 🗡️ [__KALANG__][kalang]: A Korean programming language. (Try at [Playground][kal-playground])
 
-[kal]: https://github.com/wcho21/kal
+[kalang]: https://github.com/wcho21/kalang
 [kal-playground]: https://kal-playground.rooi.dev/
 
 
