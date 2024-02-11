@@ -4,7 +4,7 @@ A programmer, mathematically-minded.
 
 
 
-### 🗃️ Recent works
+### 🗂️ Recent works
 
 - 🗡️ [__Kal__][kal]: A Korean programming language. (Try at [Playground][kal-playground])
 
@@ -13,7 +13,7 @@ A programmer, mathematically-minded.
 
 
 
-### 📄 Writings
+### 📝 Writings
 
 - 🔗 [__Drop__][drop]: Articles I wrote.
 
@@ -21,7 +21,7 @@ A programmer, mathematically-minded.
 
 
 
-### ⛺ Challenges
+### 🔥 Challenges
 
 Problem-solving challenges.
 Here are my review & upsolving repos.
