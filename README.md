@@ -6,18 +6,22 @@ A programmer, mathematically-minded.
 
 ### 🗂️ Recent works
 
-- 🗡️ [__Kal__][kal]: A Korean programming language. (Try at [Playground][kal-playground])
+- 🗡️ [__Kal__][kal]:
+  A Korean programming language. (Try at [Playground][kal-playground])
 
-[kal]: https://github.com/wcho21/kal
+[kal]: https://github.com/wcho21/kal/
 [kal-playground]: https://kal-playground.rooi.dev/
 
 
 
 ### 📝 Writings
 
-- 🔗 [__Drop__][drop]: Articles I wrote.
+- 🔗 [__Drop__][drop]:
+  Articles I wrote.
+  The website itself is built with Astro framework (see the [repo][drop-repo]).
 
 [drop]: https://drop.rooi.dev/
+[drop-repo]: https://github.com/wcho21/drop/
 
 
 
