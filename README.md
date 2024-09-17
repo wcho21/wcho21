@@ -1,4 +1,8 @@
+<!--
+Commented out since currently not working.
+
 [![LeetCode user wcho21](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fwcho21&logo=leetcode&logoColor=yellow)](https://leetcode.com/wcho21/)
+-->
 
 A programmer, mathematically-minded.
 
@@ -11,6 +15,11 @@ A programmer, mathematically-minded.
 
 [kal]: https://github.com/wcho21/kal/
 [kal-playground]: https://kal-playground.rooi.dev/
+
+- 🍯 [__Glaze__][glaze]:
+  A simple operating system.
+
+[glaze]: https://github.com/wcho21/glaze/
 
 
 
@@ -28,8 +37,6 @@ A programmer, mathematically-minded.
 ### 🔥 Challenges
 
 Problem-solving challenges.
-Here are my review & upsolving repos.
-Any comments (issues) on those repos will be appreciated.
 
 - 🎄 [__Advent of Code (2023)__][aoc-2023]
 - ☁️ [__구름 알고리즘 먼데이__][goorm-alg]
