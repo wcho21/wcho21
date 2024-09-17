@@ -25,7 +25,7 @@ A programmer, mathematically-minded.
 
 ### 📝 Writings
 
-- 🔗 [__Drop__][drop]:
+- 💧 [__Drop__][drop]:
   Articles I wrote.
   The website itself is built with Astro framework (see the [repo][drop-repo]).
 
