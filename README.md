@@ -9,25 +9,7 @@
 
 ### 🧪 성분
 
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/javascript/v1.svg" height="12pt"/> JavsScript 4mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/typescript/v1.svg" height="12pt"/> TypeScript 4mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/python/v1.svg"     height="12pt"/> Python 3mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/java/v1.svg"       height="12pt"/> Java 2mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/c/v1.svg"          height="12pt"/> C 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/rust/v1.svg"       height="12pt"/> Rust 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/haskell/v1.svg"    height="12pt"/> Haskell 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/lua/v1.svg"        height="12pt"/> Lua 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/latex/v1.svg"      height="12pt"/> LaTeX 4mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/bash/v1.svg"       height="12pt"/> bash 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/nodejs/v1.svg"     height="12pt"/> Node 4ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/react/v1.svg"      height="12pt"/> React 2ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/astro/v1.svg"      height="12pt"/> Astro 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/svelte/v1.svg"     height="12pt"/> Svelte 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/streamlit/v1.svg"  height="12pt"/> Streamlit 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/langchain/v1.svg"  height="12pt"/> Langchain 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/vim/v1.svg"        height="12pt"/> Vim 5cc,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/vscode/v1.svg"     height="12pt"/> Code 2cc,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/docker/v1.svg"     height="12pt"/> Docker 1cc.
+<img width="24pt" height="24pt" alt="javascript" src="icons/js.svg" /><img width="24pt" height="24pt" alt="typescript" src="icons/ts.svg" /><img width="24pt" height="24pt" alt="python" src="icons/python.svg" /><img width="24pt" height="24pt" alt="java" src="icons/java.svg" /><img width="24pt" height="24pt" alt="haskell" src="icons/haskell.svg" /><img width="24pt" height="24pt" alt="rust" src="icons/rust.svg" /><img width="24pt" height="24pt" alt="lua" src="icons/lua.svg" /><img width="24pt" height="24pt" alt="c" src="icons/c.svg" /><img width="24pt" height="24pt" alt="latex" src="icons/latex.svg" /><img width="24pt" height="24pt" alt="node" src="icons/node.svg" /><img width="24pt" height="24pt" alt="express" src="icons/express.svg" /><img width="24pt" height="24pt" alt="react" src="icons/react.svg" /><img width="24pt" height="24pt" alt="svelte" src="icons/svelte.svg" /><img width="24pt" height="24pt" alt="tailwind" src="icons/tailwind.svg" /><img width="24pt" height="24pt" alt="astro" src="icons/astro.svg" /><img width="24pt" height="24pt" alt="bun" src="icons/bun.svg" /><img width="24pt" height="24pt" alt="docker" src="icons/docker.svg" /><img width="24pt" height="24pt" alt="actions" src="icons/actions.svg" /><img width="24pt" height="24pt" alt="vim" src="icons/vim.svg" /><img width="24pt" height="24pt" alt="arch" src="icons/arch.svg" />
 
 [rrwg]: https://random-rare-word.netlify.app
 [pickie]: https://pickie.streamlit.app
