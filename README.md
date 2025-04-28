@@ -4,30 +4,12 @@
 - [**😒 pickie**][pickie]: 성격 까다로운 인공지능 챗봇
 - [**💠 dotdotfiles**][ddf]: 무식한 닷파일 매니저
 - [**🗡️ kal**][kal]: 한국인을 위한 한국어 프로그래밍 언어
-- [**🗃️ drop**][drop]: 수학과 컴퓨터 공학 사이 어딘가에 놓인 블로그
+- [**🗃️ drop**][drop]: 컴퓨테이션에 관한 블로그
   - 대표글: [프로그래밍 언어 만들기][sa1] | [UTF 인코딩 구현하기][sa2] | [알고리즘이란 무엇인가][sa3] | [알고리즘 라이브러리 만들기][sa4]
 
 ### 🧪 성분
 
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/javascript/v1.svg" height="12pt"/> JavsScript 4mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/typescript/v1.svg" height="12pt"/> TypeScript 4mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/python/v1.svg"     height="12pt"/> Python 3mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/java/v1.svg"       height="12pt"/> Java 2mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/c/v1.svg"          height="12pt"/> C 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/rust/v1.svg"       height="12pt"/> Rust 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/haskell/v1.svg"    height="12pt"/> Haskell 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/lua/v1.svg"        height="12pt"/> Lua 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/latex/v1.svg"      height="12pt"/> LaTeX 4mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/bash/v1.svg"       height="12pt"/> bash 1mg,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/nodejs/v1.svg"     height="12pt"/> Node 4ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/react/v1.svg"      height="12pt"/> React 2ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/astro/v1.svg"      height="12pt"/> Astro 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/svelte/v1.svg"     height="12pt"/> Svelte 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/streamlit/v1.svg"  height="12pt"/> Streamlit 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/langchain/v1.svg"  height="12pt"/> Langchain 1ml,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/vim/v1.svg"        height="12pt"/> Vim 5cc,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/vscode/v1.svg"     height="12pt"/> Code 2cc,
-<img src="https://cdn.jsdelivr.net/gh/wcho21/coi@latest/icons/docker/v1.svg"     height="12pt"/> Docker 1cc.
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img width="32pt" height="32pt" alt="javascript" src="icons/js.svg" /></a><a href="https://www.typescriptlang.org"><img width="32pt" height="32pt" alt="typescript" src="icons/ts.svg" /></a><a href="https://www.python.org"><img width="32pt" height="32pt" alt="python" src="icons/python.svg" /></a><a href="https://www.java.com"><img width="32pt" height="32pt" alt="java" src="icons/java.svg" /></a><a href="https://www.haskell.org"><img width="32pt" height="32pt" alt="haskell" src="icons/haskell.svg" /></a><a href="https://www.rust-lang.org"><img width="32pt" height="32pt" alt="rust" src="icons/rust.svg" /></a><a href="https://www.lua.org"><img width="32pt" height="32pt" alt="lua" src="icons/lua.svg" /></a><a href="https://www.c-language.org"><img width="32pt" height="32pt" alt="c" src="icons/c.svg" /></a><a href="https://www.latex-project.org"><img width="32pt" height="32pt" alt="latex" src="icons/latex.svg" /></a><a href="https://nodejs.org"><img width="32pt" height="32pt" alt="node" src="icons/node.svg" /></a><a href="https://expressjs.com"><img width="32pt" height="32pt" alt="express" src="icons/express.svg" /></a><a href="https://react.dev"><img width="32pt" height="32pt" alt="react" src="icons/react.svg" /></a><a href="https://svelte.dev"><img width="32pt" height="32pt" alt="svelte" src="icons/svelte.svg" /></a><a href="https://tailwindcss.com"><img width="32pt" height="32pt" alt="tailwind" src="icons/tailwind.svg" /></a><a href="https://astro.build"><img width="32pt" height="32pt" alt="astro" src="icons/astro.svg" /></a><a href="https://bun.sh"><img width="32pt" height="32pt" alt="bun" src="icons/bun.svg" /></a><a href="https://www.docker.com"><img width="32pt" height="32pt" alt="docker" src="icons/docker.svg" /></a><a href="https://github.com/features/actions"><img width="32pt" height="32pt" alt="actions" src="icons/actions.svg" /></a><a href="https://neovim.io"><img width="32pt" height="32pt" alt="vim" src="icons/neovim.svg" /></a><a href="https://www.google.com/search?client=safari&rls=en&q=arch+linux&ie=UTF-8&oe=UTF-8"><img width="32pt" height="32pt" alt="arch" src="icons/arch.svg" /></a>
 
 [rrwg]: https://random-rare-word.netlify.app
 [pickie]: https://pickie.streamlit.app
